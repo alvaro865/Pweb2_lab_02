@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <label >Ingrese texto:</label><br>
+    <input type="text" id="texto" value=""><br>
+    <button type="button" onclick="voltearTexto()">submit</button>
+    <p id="demo"></p>
+
+    <script>
+        function voltearTexto(){
+            let palabra = document.getElementById("texto").value;
+            var volteado="";
+            for(let i=palabra.length;i>=0;i--){
+                volteado += palabra.charAt(i);
+            }
+            document.getElementById("demo").innerHTML = volteado;
+        }
+    </script>
+</body>
+</html>
