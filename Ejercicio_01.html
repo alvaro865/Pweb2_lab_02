@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <p>Mostrando dia de la semana</p>
+    <p id="demo"></p>
+    <script>
+        function diaSemana(valor){
+            switch(valor){
+                case 0: return "domingo"; break;
+                case 1: return "lunes"; break;
+                case 2: return "martes" ; break;
+                case 3: return "miercoles"; break;
+                case 4: return "jueves"; break;
+                case 5: return "viernes"; break;
+                case 6: return "sabado"; break;
+            }
+        }
+        document.getElementById("demo").innerHTML = diaSemana(3);
+    </script>
+    
+</body>
+</html>
