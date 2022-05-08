@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>Devolvoendo url sin guiones</p>
+    <p id="demo"></p>
+    <Script>
+        function eliminaGuion(cadena){
+            let nuevo = "";
+            for(let i=0;i<cadena.length;i++){
+                if(cadena.charAt(i) != "-" )
+                    nuevo += cadena.charAt(i);
+            }
+            return nuevo;
+        }
+        document.getElementById("demo").innerHTML 
+        = eliminaGuion("https://meet.google.com/rdb-duyw-xsw?pli=1&authuser=0");
+    </Script>
+
+</body>
+</html>
