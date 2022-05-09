@@ -20,7 +20,7 @@
 
 <div align="center">
 <span style="font-weight:bold;">GUÍA DE LABORATORIO</span><br />
-<span>(formato docente)</span>
+
 </div>
 
 
@@ -30,18 +30,18 @@
 </theader>
 <tbody>
 <tr><td>ASIGNATURA:</td><td colspan="5">Programación Web 2</td></tr>
-<tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Git - GitHub</td></tr>
+<tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">JavaScript</td></tr>
 <tr>
-<td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
+<td>NÚMERO DE PRÁCTICA:</td><td>02</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
-<td>FECHA PRESENTACION::</td><td>25-Abr-2022</td><td>HORA DE PRESENTACION:</td><td>29-Abr-2022</td><td></td><td></td>
+<td>FECHA PRESENTACION::</td><td>5-mayo-2022</td><td>HORA DE PRESENTACION:</td><td>9-mayo-2022</td><td></td><td></td>
 </tr>
 <tr>
 <td>INTEGRANTES::</td><td>
 <ul>
 <li>Suasaca Pacompia Alvaro Gustavo</li>
-<li>el que sigue</li>
+
 </ul>
 <td>NOTA</td><td></td><td></td><td></td>
 </td>
@@ -83,4 +83,10 @@
 
 ## III. CONCLUSIONES
 
+- Se puede controlar el comportamniento de una pagina web con el lenguaje de javaScript por lo que nos sera de mucha ayuda al momento de querer interactuar 
+  con el usuario y poder ayudar al usuario con el trabajo que brinde la pagina web.
+- La pagina de stackoverflow es muy interesante pues se puede observar como varias personas tratan de ayudar con opiniones o sentencias de codigo y al ser 
+  varias respuestas estan dan muchas posibilidades de resolver un problema en comun.
+- Respecto a flipgrid me parece una buena forma de informar algo nuevo en un tiempo corto pues se necesita saber muy bien del tema para poder hacer un resumen 
+  el cual los interasados puedan comprender.
 
