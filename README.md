@@ -63,6 +63,19 @@
 
 ## II. SOLUCION DEL CUESTIONARIO
 
+ - ¿Como se pueden resolver los warnings?
+    Siguiendo las respuestas de stackoverflow nos da algunas opciones como el de usar foreach pues el solo usar for sin un tamaño predefinido nos puede mandar 
+    problemas, otra opcion que nos indican es el de preestablecer un tamaño al array antes de usar el for, y una mas es el de usar la herramienta map y debemos
+    de indicar que cuando se usa esta herramienta las funciones son en flecha.
+    
+ - ¿Se puede resolver usando map?¿Como? 
+    Hice algunos cambios en la function como por ejemplo:
+    function myFunction(n, min, max) {
+	let a = new Array(n);
+    let b = a.map(function(n){return n*(Math.random() * (max -min) +min)});
+    return b[1];
+    }
+    Pero cuando lo ejecuto me manda indefinido por lo que aun no pude resolverlo con map
 
 ## III. CONCLUSIONES
 
