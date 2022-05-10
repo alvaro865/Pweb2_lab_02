@@ -62,7 +62,22 @@
 
 - Solucion del Ejercicio 1 al 5:
   https://github.com/alvaro865/Pweb2_lab_02
+  - Ejercicio 1
+  
   - ![Ejercicio 1](ejercicio01.png)
+  
+  - Ejercicio 2
+  
+  - ![Ejercicio 2](ejercicio02.png)
+  
+  - Ejercicio 3
+  
+  - ![Ejercicio 3](ejercicio03.png)
+  
+  - Ejercicio 4
+  
+  - ![Ejercicio 4](ejercicio04.png)
+  
 - Solucion al Ejericio 6:
   https://flipgrid.com/837b6633
 
